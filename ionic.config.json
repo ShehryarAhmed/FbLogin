@@ -1,0 +1,7 @@
+{
+  "name": "FbLogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
